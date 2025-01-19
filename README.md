@@ -28,8 +28,5 @@ For data visualization
 ### Seaborn: 
 For statistical data visualization
 
-### TensorFlow and Keras: 
-For building and training the deep learning model
-
 ### Scikit-Learn: 
 For evaluation metrics and preprocessing
